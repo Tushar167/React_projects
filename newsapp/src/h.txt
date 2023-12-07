@@ -1,0 +1,6 @@
+
+<Link path="/Business"><NewsApp pageSize={5} category = "general"/></Link>
+<Link path="/Sports"><NewsApp pageSize={5} category = "general"/></Link>
+<Link path="/Entertainment"><NewsApp pageSize={5} category = "general"/></Link>
+<Link path="/Technology"><NewsApp pageSize={5} category = "general"/></Link>
+<Link path="/Health"><NewsApp pageSize={5} category = "general"/></Link>
